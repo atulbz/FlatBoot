@@ -31,60 +31,60 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-.alert {
+.warn {
   padding: 8px 35px 8px 14px;
   margin-bottom: 20px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   background-color: #fcf8e3;
   border: 1px solid #fbeed5;
 }
-.alert,
-.alert h4 {
+.warn,
+.warn h4 {
   color: #c09853;
 }
-.alert h4 {
+.warn h4 {
   margin: 0;
 }
-.alert .close {
+.warn .close {
   position: relative;
   top: -2px;
   right: -21px;
   line-height: 20px;
 }
-.alert-success {
+.warn-success {
   background-color: #dff0d8;
   border-color: #d6e9c6;
   color: #468847;
 }
-.alert-success h4 {
+.warn-success h4 {
   color: #468847;
 }
-.alert-danger,
-.alert-error {
+.warn-danger,
+.warn-error {
   background-color: #f2dede;
   border-color: #eed3d7;
   color: #b94a48;
 }
-.alert-danger h4,
-.alert-error h4 {
+.warn-danger h4,
+.warn-error h4 {
   color: #b94a48;
 }
-.alert-info {
+.warn-info {
   background-color: #d9edf7;
   border-color: #bce8f1;
   color: #3a87ad;
 }
-.alert-info h4 {
+.warn-info h4 {
   color: #3a87ad;
 }
-.alert-block {
+.warn-block {
   padding-top: 14px;
   padding-bottom: 14px;
 }
-.alert-block > p,
-.alert-block > ul {
+.warn-block > p,
+.warn-block > ul {
   margin-bottom: 0;
 }
-.alert-block p + p {
+.warn-block p + p {
   margin-top: 5px;
 }
