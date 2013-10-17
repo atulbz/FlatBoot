@@ -14,3 +14,8 @@ Two quick start options are available:
 
     Clone the repo: git clone https://github.com/atulbz/FlatBoot.git.
     Install with Bower: bower install FaltBoot.
+
+Hints
+======
+
+To support HTML5 and Responsive design in lower version of Internet Explorer, Use html5shiv.js and respond.js given in assests/js folder.
