@@ -10,7 +10,7 @@ Feel free to use (Commercial and Non-Commercial).
 Quick start
 ===========
 
-Three quick start options are available:
+Two quick start options are available:
 
     Clone the repo: git clone https://github.com/atulbz/FlatBoot.git.
     Install with Bower: bower install FaltBoot.
