@@ -46,7 +46,7 @@
   cursor: pointer;
   color: #333333;
   text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
-  background-color: #f5f5f5;
+  background-color: #ACACAC;
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
   border-color: #e6e6e6 #e6e6e6 #bfbfbf;
@@ -165,7 +165,7 @@ input[type="button"].button-block {
 .button-primary {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #006dcc;
+  background-color: #679BEA;
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0044cc', GradientType=0);
   border-color: #0044cc #0044cc #002a80;
@@ -192,7 +192,7 @@ input[type="button"].button-block {
 .button-warning {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #faa732;
+  background-color: #D89C27;
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffbb450', endColorstr='#fff89406', GradientType=0);
   border-color: #f89406 #f89406 #ad6704;
@@ -219,7 +219,7 @@ input[type="button"].button-block {
 .button-danger {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #da4f49;
+  background-color: #F46963;
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffee5f5b', endColorstr='#ffbd362f', GradientType=0);
   border-color: #bd362f #bd362f #802420;
@@ -246,7 +246,7 @@ input[type="button"].button-block {
 .button-success {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #5bb75b;
+  background-color: #6CC86C;
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff62c462', endColorstr='#ff51a351', GradientType=0);
   border-color: #51a351 #51a351 #387038;
@@ -273,7 +273,7 @@ input[type="button"].button-block {
 .button-info {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #49afcd;
+  background-color: #2086A4;
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff5bc0de', endColorstr='#ff2f96b4', GradientType=0);
   border-color: #2f96b4 #2f96b4 #1f6377;
@@ -300,7 +300,7 @@ input[type="button"].button-block {
 .button-black {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-color: #363636;
+  background-color: #5E5E5E;
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff444444', endColorstr='#ff222222', GradientType=0);
   border-color: #222222 #222222 #000000;
