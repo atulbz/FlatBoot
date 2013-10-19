@@ -34,13 +34,11 @@
 .warn {
   padding: 8px 35px 8px 14px;
   margin-bottom: 20px;
-  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
   background-color: #fcf8e3;
-  border: 1px solid #fbeed5;
 }
 .warn,
 .warn h4 {
-  color: #c09853;
+  color: #fff;
 }
 .warn h4 {
   margin: 0;
@@ -52,30 +50,30 @@
   line-height: 20px;
 }
 .warn-success {
-  background-color: #dff0d8;
-  border-color: #d6e9c6;
-  color: #468847;
+  background-color: #18BC9C;
+  color: #fff;
 }
 .warn-success h4 {
-  color: #468847;
+  color: #fff;
 }
-.warn-danger,
+.warn-danger {
+  background-color: #E74C3C;
+  color: #fff;
+}
 .warn-error {
-  background-color: #f2dede;
-  border-color: #eed3d7;
-  color: #b94a48;
+  background-color: #F39C12;
+  color: #fff;
 }
 .warn-danger h4,
 .warn-error h4 {
-  color: #b94a48;
+  color: #fff;
 }
 .warn-info {
-  background-color: #d9edf7;
-  border-color: #bce8f1;
-  color: #3a87ad;
+  background-color: #3498DB;
+  color: #fff;
 }
 .warn-info h4 {
-  color: #3a87ad;
+  color: #fff;
 }
 .warn-block {
   padding-top: 14px;
