@@ -67,35 +67,35 @@ a.badge:focus {
 }
 .label-important,
 .badge-important {
-  background-color: #b94a48;
+  background-color: #E74C3C;
 }
 .label-important[href],
 .badge-important[href] {
-  background-color: #953b39;
+  background-color: #E74C3C;
 }
 .label-warning,
 .badge-warning {
-  background-color: #f89406;
+  background-color: #F39C12;
 }
 .label-warning[href],
 .badge-warning[href] {
-  background-color: #c67605;
+  background-color: #F39C12;
 }
 .label-success,
 .badge-success {
-  background-color: #468847;
+  background-color: #18BC9C;
 }
 .label-success[href],
 .badge-success[href] {
-  background-color: #356635;
+  background-color: #18BC9C;
 }
 .label-info,
 .badge-info {
-  background-color: #3a87ad;
+  background-color: #3498DB;
 }
 .label-info[href],
 .badge-info[href] {
-  background-color: #2d6987;
+  background-color: #3498DB;
 }
 .label-inverse,
 .badge-inverse {
