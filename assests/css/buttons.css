@@ -170,8 +170,8 @@ input[type="button"].button-block {
 .button-primary.disabled,
 .button-primary[disabled] {
   color: #ffffff;
-  background-color: #0044cc;
-  *background-color: #003bb3;
+  background-color: #535FE7;
+  *background-color: #535FE7;
 }
 .button-primary:active,
 .button-primary.active {
